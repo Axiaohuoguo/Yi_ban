@@ -1,0 +1,27 @@
+{
+  "1": {
+    "nick": "姓名",
+    "user": "易班账号",
+    "pasw": "密码",
+    "addr": {
+      "name": "地址",
+      "location": "经纬度",
+      "address": "详细地址"
+    },
+    "add": "xx省/xxx市/xxx市",
+    "uid": "微信推送uid"
+  },
+  "2": {
+    "nick": "xxxx",
+    "user": "xxx",
+    "pasw": "xxx",
+    "addr": {
+      "name": "xxx",
+      "location": "xxx",
+      "address": "xxx"
+    },
+    "add": "xxx",
+    "uid": "xxx"
+  }
+
+}
